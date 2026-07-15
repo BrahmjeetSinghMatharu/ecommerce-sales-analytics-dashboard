@@ -252,11 +252,6 @@ Potential improvements include:
 - Real-time database integration
 - Advanced Plotly visualizations
 
----
-
-# Resume Keywords
-
-Business Intelligence • Business Analytics • Data Analytics • Dashboard Development • Customer Analytics • Sales Analytics • KPI Monitoring • Customer Segmentation • RFM Analysis • Business Reporting • Decision Support • Data Visualization • Feature Engineering • Data Cleaning • Data Preprocessing • Streamlit • Python • Pandas • NumPy
 
 ---
 
